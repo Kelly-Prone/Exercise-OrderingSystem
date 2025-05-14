@@ -1,25 +1,25 @@
-# Exercício de Fixação - Sistema de Pedido
+# 📦 Practice Exercise - Order System
 
-Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um  
-sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser  
-o instante do sistema: `DateTime.Now`
-
----
-
-### ✅ O sistema deve:
-- Ler os dados de um pedido com **N itens** (sendo N fornecido pelo usuário).  
-- O instante do pedido deve ser o instante atual do sistema (`DateTime.Now`).  
-- Após a leitura dos dados, deve ser exibido um **sumário** contendo as informações do cliente, do pedido, e dos itens comprados com seus subtotais e valor total.
+Read the data of an order with N items (N provided by the user). Then, display a  
+summary of the order as shown in the example (next page). Note: the order timestamp must be  
+the system's current time: `DateTime.Now`
 
 ---
 
-### 🧩 Diagrama de Classes
+### ✅ The system must:
+- Read the data of an order with **N items** (N provided by the user).  
+- The order timestamp must be the system's current time (`DateTime.Now`).  
+- After reading the data, display a **summary** with the client's information, the order, and the purchased items with their subtotals and the total amount.
+
+---
+
+### 🧩 Class Diagram
 
 ![Diagrama de Classes](img.jpg)
 
 ---
 
-### 🧾 Exemplo de como deve ficar:
+### 🧾 Example output:
 
 ```bash
 Enter cliente data:
