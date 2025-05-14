@@ -1,4 +1,4 @@
-# 📦 Practice Exercise - Order System
+# Practice Exercise - Order System
 
 Read the data of an order with N items (N provided by the user). Then, display a  
 summary of the order as shown in the example (next page). Note: the order timestamp must be  
